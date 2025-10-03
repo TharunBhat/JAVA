@@ -1,4 +1,4 @@
-ServerSide program
+//ServerSide program
 
 package socketfiletransfer;
 import java.net.*;
@@ -38,7 +38,7 @@ public class SocketServer {
 }
 
 
-clientside program
+//clientside program
 
 package javaapplication5;
 
